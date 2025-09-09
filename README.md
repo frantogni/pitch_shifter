@@ -1,0 +1,1 @@
+Pitch shifter project, based on Tiva C Launchpad board. This firmware produces an analog signal in 16 bits and builds an analog output through 2 PWM signals. The signal is processed to convert to one of the 24 intervals between -1 octave and +1 octave, in just and tempered scale. 
